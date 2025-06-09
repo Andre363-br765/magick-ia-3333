@@ -1,0 +1,52 @@
+@media(max-width: 1024px) {
+    
+    .container {
+        padding: 20px;
+    }
+
+    .container h1 {
+        text-align: center;
+    }
+
+    .container .filtros {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }
+
+    .container .filtros .categorias-cartas,
+    .container .filtros .preco-cartas,
+    .container .filtros .btn-filtrar {
+        width: 65%;
+    }
+
+    .container .filtros .btn-filtrar {
+        align-self: center;
+    }
+
+    .container .cartas {
+        justify-content: center;
+    }
+
+    .container .cartas .carta {
+        width: calc(50% - 16px);
+    }
+    
+}
+
+@media(max-width: 480px) {
+
+    .container .filtros .categorias-cartas,
+    .container .filtros .preco-cartas,
+    .container .filtros .btn-filtrar {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .container .cartas .carta {
+        width: 100%;
+    }
+}
