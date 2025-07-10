@@ -32,8 +32,6 @@ Apesar de ter sido inspirado e iniciado a partir do conteúdo apresentado no eve
 - 🛠️ **Ajustes e testes manuais**:
   - Pequenos ajustes foram feitos para corrigir imperfeições e tornar o layout mais próximo da proposta visual ideal — mesmo que de forma diferente da solução oficial.
 
-## 🔗 Link do Projeto - 
-
 ## 📁 Estrutura de pastas
 
 ```bash
@@ -60,3 +58,5 @@ magick-ia/
 │       └── index.js
 ├── index.html
 └── README.md
+
+## 🔗 Link do Projeto
