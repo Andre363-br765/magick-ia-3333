@@ -60,3 +60,4 @@ magick-ia/
 └── README.md
 
 ## 🔗 Link do Projeto
+[Veja o projeto aqui](https://andre363-br765.github.io/magick-ia-3333/)
